@@ -22,4 +22,4 @@ All basic requirements are completed.
 
 ## Level 5
 
-Level5 task is a basic image classification problem with 2 categories. I have a coursework report for image classification which discussed the relationship between performance, depth and number of labels. The report with its code is attached in this repository and they are renamed as level5.
+Level5 task is a basic image classification problem with 2 categories. I have a coursework report for image classification which discussed the performance with different depth of network and number of labels. The report with its code is attached in this repository and they are renamed as level5.
